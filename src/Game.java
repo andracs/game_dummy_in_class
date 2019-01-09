@@ -19,8 +19,7 @@ import static javafx.application.Application.launch;
  * Based on https://github.com/AlmasB/FXGL/wiki/Basic-Game-Example
  *
  */
- * */
- */
+
 public class Game extends GameApplication {
 
     private Entity player1;
