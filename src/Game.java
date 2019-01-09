@@ -13,6 +13,14 @@ import java.util.Map;
 
 import static javafx.application.Application.launch;
 
+/**
+ * FXGL example in class
+ *
+ * Based on https://github.com/AlmasB/FXGL/wiki/Basic-Game-Example
+ *
+ */
+ * */
+ */
 public class Game extends GameApplication {
 
     private Entity player1;
